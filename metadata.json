@@ -1,0 +1,6 @@
+{
+  "name": "MaChiMath",
+  "description": "Game edukasi teka-teki matematika berbasis logika Sokoban untuk pelajar",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
